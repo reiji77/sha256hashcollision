@@ -53,12 +53,6 @@ def main():
                     fake_adjusted.writelines(fake_text)
                     fake_adjusted.close()
                     return
-                    
-
-
-    
-
-
 
 if __name__ == '__main__': 
     main()
